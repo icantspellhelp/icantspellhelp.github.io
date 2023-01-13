@@ -3,7 +3,7 @@ Christian Aaron O Pasia
 
 LG **CAMPION**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ![image](https://user-images.githubusercontent.com/122416229/212215852-00765431-2610-472f-bf40-86a8c3718867.png)
 ![image](https://user-images.githubusercontent.com/122416229/212216179-a917e10c-767f-42e0-8565-3052c7a97c92.png)
