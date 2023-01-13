@@ -8,7 +8,6 @@ LG **CAMPION**
 ---
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4cOdK2wGLETKBW3PvgPWqT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
----
 
 ![image](https://user-images.githubusercontent.com/122416229/212215852-00765431-2610-472f-bf40-86a8c3718867.png)
 
